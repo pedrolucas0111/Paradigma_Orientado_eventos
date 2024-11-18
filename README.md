@@ -25,6 +25,7 @@ Este repositório foi criado para a apresentação de um projeto acadêmico sobr
 
 
 ## Autores
+GRUPO LARANJA - Paradigma Orientado a Eventos
 
 - [Pedro Lucas Garcia de Oliveira - RGM 29997925](https://github.com/pedrolucas0111)
 - [Eduardo Roberto Lucena Silva - RGM 31363181](https://github.com/Bigodudys)
