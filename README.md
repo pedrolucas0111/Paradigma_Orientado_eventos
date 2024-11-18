@@ -1,12 +1,12 @@
 # Descrição do projeto
 
-Este repositório foi criado para a apresentação de um projeto acadêmico sobre o Paradigma Orientado a Eventos, utilizando a linguagem Python. Além do código em Prolog, o projeto inclui um site com HTML, CSS e JavaScript para documentar e apresentar os conceitos abordados.
+Este repositório foi criado para a apresentação de um projeto acadêmico sobre o Paradigma Orientado a Eventos, utilizando a linguagem Python. Além do código em Python, o projeto inclui um site com HTML, CSS e JavaScript para documentar e apresentar os conceitos abordados.
 
 # Funcionalidades do projeto
 
 - Explicação de conceitos do Paradigma, como utilização.
 - Exemplos de código em Python para resolução de problemas e exemplos de uso.
-- Recursos adicionais, como artigos e tutoriais sobre Prolog
+- Recursos adicionais, como artigos e tutoriais sobre Python
 - Interface web responsiva para a apresentaçãodo projeto, usando HTML, CSS, JavaScript.
 
 ## PRÉ-REQUISITO
@@ -30,4 +30,4 @@ Este repositório foi criado para a apresentação de um projeto acadêmico sobr
 - [Eduardo Roberto Lucena Silva - RGM 31363181](https://github.com/Bigodudys)
 - [Davi Pereira dos Santos - RGM 32075821](https://github.com/Saigaton)
 - [Thalisson Costa Mesquita Coelho - RGM 31810756](https://github.com/ThalissonDev01)
-- [Davi Serafim Jovane - RGM 30185271]
+- [Davi Serafim Jovane - RGM 30185271](https://github.com/davisj08)
